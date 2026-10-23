@@ -2,12 +2,12 @@
 悲愴三国志系のリンク、説明、ロードマップ  
 ## リンク
 ### 悲愴三国志Zero
-ゲームページ：https://karintougames.com/siteContents/releaseGameContents/hisouSangokushiZero.html  
+ゲームページ：https://ss1.xrea.com/karintougames.s350.xrea.com/honkan/siteContents/releaseGameContents/hisouSangokushiZero.html  
 バージョン１のREADME：https://github.com/ka-jpn/HisouSangokushiZero1_1  
 バージョン２のREADME：https://github.com/ka-jpn/HisouSangokushiZero1_2  
 バージョン３のREADME：https://github.com/ka-jpn/HisouSangokushiZero1_3  
 ### 悲愴三国志Zero2
-ゲームページ：https://karintougames.com/siteContents/releaseGameContents/hisouSangokushiZero2.html  
+ゲームページ：https://ss1.xrea.com/karintougames.s350.xrea.com/honkan/siteContents/releaseGameContents/hisouSangokushiZero2.html  
 バージョン１のREADME：https://github.com/ka-jpn/HisouSangokushiZero2_1  
 バージョン２のREADME：※まだリポジトリなし  
 ### 悲愴三国志(完成時期未定)
